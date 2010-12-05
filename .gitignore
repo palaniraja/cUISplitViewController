@@ -1,0 +1,6 @@
+
+# exclude the build folder of iPhone projects
+build/
+
+#exclude the default files of osx
+.DS_Store
