@@ -9,5 +9,7 @@ You can add/remove UINavigationController and UISplitViewController from AppDele
 Refer images
 ------------
 
-![Portrait](portrait.png "Potrait")
-![Landscape](landscape.png "Landscape")
+![Portrait](http://1.bp.blogspot.com/_UdH8rcs3s1Q/TPupD-D4n5I/AAAAAAAAAL0/4cotOLBkKyM/s640/portrait.png "Potrait")
+![Landscape](http://3.bp.blogspot.com/_UdH8rcs3s1Q/TPupDRyK2hI/AAAAAAAAALw/1ZP1wWXDA90/s640/landscape.png "Landscape")
+
+
