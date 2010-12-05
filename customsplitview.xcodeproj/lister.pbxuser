@@ -1,0 +1,292 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* customsplitviewAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1379, 287}}";
+			sepNavSelRange = "{367, 0}";
+			sepNavVisRange = "{0, 367}";
+			sepNavWindowFrame = "{{15, 60}, {750, 818}}";
+		};
+	};
+	1D3623250D0F684500981E51 /* customsplitviewAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1131, 1088}}";
+			sepNavSelRange = "{192, 0}";
+			sepNavVisRange = "{0, 1466}";
+			sepNavWindowFrame = "{{15, 60}, {750, 818}}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* customsplitview */ = {
+		activeExec = 0;
+		executables = (
+			A91CEFCD1276BE9C007DB505 /* customsplitview */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* customsplitviewViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1131, 720}}";
+			sepNavSelRange = "{670, 0}";
+			sepNavVisRange = "{0, 678}";
+			sepNavWindowFrame = "{{15, 60}, {750, 818}}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* customsplitviewViewController.m */ = {
+		uiCtxt = {
+			sepNavFolds = "{\n    c =     (\n                {\n            r = \"{3416, 561}\";\n            s = 0;\n        },\n                {\n            r = \"{7001, 215}\";\n            s = 0;\n        },\n                {\n            r = \"{7220, 287}\";\n            s = 0;\n        },\n                {\n            r = \"{7514, 245}\";\n            s = 0;\n        }\n    );\n    r = \"{0, 10430}\";\n    s = 0;\n}";
+			sepNavIntBoundsRect = "{{0, 0}, {1131, 6045}}";
+			sepNavSelRange = "{6432, 0}";
+			sepNavVisRange = "{5951, 500}";
+			sepNavWindowFrame = "{{15, 60}, {750, 818}}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = A91CEFCD1276BE9C007DB505 /* customsplitview */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* customsplitview */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* customsplitview */,
+		);
+		breakpoints = (
+			A918FE421279B534001FEE5F /* customsplitviewViewController.m:300 */,
+		);
+		codeSenseManager = A91CEFE71276BEAA007DB505 /* Code sense */;
+		executables = (
+			A91CEFCD1276BE9C007DB505 /* customsplitview */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					10,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 310291343;
+			PBXWorkspaceStateSaveDate = 310291343;
+		};
+		perUserProjectItems = {
+			A918FCF612799FF0001FEE5F /* PBXTextBookmark */ = A918FCF612799FF0001FEE5F /* PBXTextBookmark */;
+			A918FE151279B482001FEE5F /* PBXTextBookmark */ = A918FE151279B482001FEE5F /* PBXTextBookmark */;
+			A9550396127EBEF100EA0FA1 /* PBXTextBookmark */ = A9550396127EBEF100EA0FA1 /* PBXTextBookmark */;
+			A95503DE127EC4F300EA0FA1 /* PBXTextBookmark */ = A95503DE127EC4F300EA0FA1 /* PBXTextBookmark */;
+			A95504C4127EE43A00EA0FA1 /* PBXTextBookmark */ = A95504C4127EE43A00EA0FA1 /* PBXTextBookmark */;
+			A95504C6127EE43A00EA0FA1 /* PBXTextBookmark */ = A95504C6127EE43A00EA0FA1 /* PBXTextBookmark */;
+			A9550555127EEA1B00EA0FA1 /* PBXTextBookmark */ = A9550555127EEA1B00EA0FA1 /* PBXTextBookmark */;
+			A955057E127EF01100EA0FA1 /* PBXTextBookmark */ = A955057E127EF01100EA0FA1 /* PBXTextBookmark */;
+			A9550581127EF02E00EA0FA1 /* PBXTextBookmark */ = A9550581127EF02E00EA0FA1 /* PBXTextBookmark */;
+		};
+		sourceControlManager = A91CEFE61276BEAA007DB505 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	A918FCF612799FF0001FEE5F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* customsplitviewAppDelegate.h */;
+		name = "customsplitviewAppDelegate.h: 16";
+		rLen = 0;
+		rLoc = 366;
+		rType = 0;
+		vrLen = 367;
+		vrLoc = 0;
+	};
+	A918FDA71279AADD001FEE5F /* UIBarButtonItem.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = UIBarButtonItem.h;
+		path = /Developer4/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIBarButtonItem.h;
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1379, 1245}}";
+			sepNavSelRange = "{394, 0}";
+			sepNavVisRange = "{1789, 1066}";
+		};
+	};
+	A918FDAA1279AADD001FEE5F /* UIToolbar.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = UIToolbar.h;
+		path = /Developer4/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIToolbar.h;
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1131, 780}}";
+			sepNavSelRange = "{1271, 141}";
+			sepNavVisRange = "{390, 1406}";
+		};
+	};
+	A918FE151279B482001FEE5F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* customsplitviewAppDelegate.m */;
+		name = "customsplitviewAppDelegate.m: 12";
+		rLen = 0;
+		rLoc = 192;
+		rType = 0;
+		vrLen = 1466;
+		vrLoc = 0;
+	};
+	A918FE421279B534001FEE5F /* customsplitviewViewController.m:300 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 28D7ACF70DDB3853001CB0EB /* customsplitviewViewController.m */;
+		functionName = "-tempAction";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 300;
+		location = customsplitview;
+		modificationTime = 310308871.310763;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	A91CEFCD1276BE9C007DB505 /* customsplitview */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 1;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = customsplitview;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	A91CEFE61276BEAA007DB505 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	A91CEFE71276BEAA007DB505 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	A9550396127EBEF100EA0FA1 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* customsplitviewViewController.h */;
+		name = "customsplitviewViewController.h: 26";
+		rLen = 0;
+		rLoc = 670;
+		rType = 0;
+		vrLen = 678;
+		vrLoc = 0;
+	};
+	A95503DE127EC4F300EA0FA1 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A95503DF127EC4F300EA0FA1 /* UIApplication.h */;
+		name = "UIApplication.h: 33";
+		rLen = 27;
+		rLoc = 908;
+		rType = 0;
+		vrLen = 1337;
+		vrLoc = 545;
+	};
+	A95503DF127EC4F300EA0FA1 /* UIApplication.h */ = {
+		isa = PBXFileReference;
+		name = UIApplication.h;
+		path = /Developer4/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h;
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1379, 3675}}";
+			sepNavSelRange = "{908, 27}";
+			sepNavVisRange = "{545, 1296}";
+		};
+	};
+	A95504C4127EE43A00EA0FA1 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A95504C5127EE43A00EA0FA1 /* UINavigationBar.h */;
+		name = "UINavigationBar.h: 66";
+		rLen = 42;
+		rLoc = 2396;
+		rType = 0;
+		vrLen = 1711;
+		vrLoc = 1705;
+	};
+	A95504C5127EE43A00EA0FA1 /* UINavigationBar.h */ = {
+		isa = PBXFileReference;
+		name = UINavigationBar.h;
+		path = /Developer4/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UINavigationBar.h;
+		sourceTree = "<absolute>";
+	};
+	A95504C6127EE43A00EA0FA1 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A918FDAA1279AADD001FEE5F /* UIToolbar.h */;
+		name = "UIToolbar.h: 43";
+		rLen = 141;
+		rLoc = 1271;
+		rType = 0;
+		vrLen = 1406;
+		vrLoc = 390;
+	};
+	A9550555127EEA1B00EA0FA1 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A918FDA71279AADD001FEE5F /* UIBarButtonItem.h */;
+		name = "UIBarButtonItem.h: 18";
+		rLen = 0;
+		rLoc = 394;
+		rType = 0;
+		vrLen = 1413;
+		vrLoc = 1442;
+	};
+	A955057E127EF01100EA0FA1 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* customsplitviewViewController.m */;
+		name = "customsplitviewViewController.m: 282";
+		rLen = 0;
+		rLoc = 6992;
+		rType = 0;
+		vrLen = 279;
+		vrLoc = 6709;
+	};
+	A9550581127EF02E00EA0FA1 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* customsplitviewViewController.m */;
+		name = "customsplitviewViewController.m: 282";
+		rLen = 0;
+		rLoc = 6992;
+		rType = 0;
+		vrLen = 1000;
+		vrLoc = 6511;
+	};
+}

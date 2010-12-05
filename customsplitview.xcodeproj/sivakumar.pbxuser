@@ -1,0 +1,214 @@
+// !$*UTF8*$!
+{
+	1D6058900D05DD3D006BFB54 /* customsplitview */ = {
+		activeExec = 0;
+		executables = (
+			DD92A1F012770E0900BAF621 /* customsplitview */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* customsplitviewViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {802, 455}}";
+			sepNavSelRange = "{265, 0}";
+			sepNavVisRange = "{0, 617}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* customsplitviewViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1251, 2873}}";
+			sepNavSelRange = "{874, 0}";
+			sepNavVisRange = "{1358, 1099}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = DD92A1F012770E0900BAF621 /* customsplitview */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* customsplitview */;
+		breakpoints = (
+			DD92A2191277221100BAF621 /* customsplitviewViewController.m:70 */,
+			DD92A2291277238600BAF621 /* customsplitviewViewController.m:39 */,
+		);
+		codeSenseManager = DD92A20F12770E2000BAF621 /* Code sense */;
+		executables = (
+			DD92A1F012770E0900BAF621 /* customsplitview */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					624,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 309792265;
+			PBXWorkspaceStateSaveDate = 309792265;
+		};
+		perUserProjectItems = {
+			DD92A2211277222F00BAF621 /* PBXTextBookmark */ = DD92A2211277222F00BAF621 /* PBXTextBookmark */;
+			DD92A2221277222F00BAF621 /* PBXTextBookmark */ = DD92A2221277222F00BAF621 /* PBXTextBookmark */;
+			DD92A2231277222F00BAF621 /* PBXTextBookmark */ = DD92A2231277222F00BAF621 /* PBXTextBookmark */;
+			DD92A253127727F900BAF621 /* PBXTextBookmark */ = DD92A253127727F900BAF621 /* PBXTextBookmark */;
+			DD92A26A127728E500BAF621 /* PBXTextBookmark */ = DD92A26A127728E500BAF621 /* PBXTextBookmark */;
+		};
+		sourceControlManager = DD92A20E12770E2000BAF621 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	A91CF0291276C7E1007DB505 /* masterViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1146, 1417}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{1539, 1018}";
+		};
+	};
+	DD92A1F012770E0900BAF621 /* customsplitview */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = customsplitview;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	DD92A20E12770E2000BAF621 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	DD92A20F12770E2000BAF621 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	DD92A2191277221100BAF621 /* customsplitviewViewController.m:70 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 28D7ACF70DDB3853001CB0EB /* customsplitviewViewController.m */;
+		functionName = "-willRotateToInterfaceOrientation:duration:";
+		hitCount = 4;
+		ignoreCount = 0;
+		lineNumber = 70;
+		location = customsplitview;
+		modificationTime = 309797818.005305;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	DD92A2211277222F00BAF621 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A91CF0291276C7E1007DB505 /* masterViewController.m */;
+		name = "masterViewController.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1018;
+		vrLoc = 1539;
+	};
+	DD92A2221277222F00BAF621 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* customsplitviewViewController.h */;
+		name = "customsplitviewViewController.h: 9";
+		rLen = 0;
+		rLoc = 265;
+		rType = 0;
+		vrLen = 617;
+		vrLoc = 0;
+	};
+	DD92A2231277222F00BAF621 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = DD92A2241277222F00BAF621 /* UIViewController.h */;
+		name = "UIViewController.h: 157";
+		rLen = 92;
+		rLoc = 8007;
+		rType = 0;
+		vrLen = 2729;
+		vrLoc = 6997;
+	};
+	DD92A2241277222F00BAF621 /* UIViewController.h */ = {
+		isa = PBXFileReference;
+		name = UIViewController.h;
+		path = /SDK4/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIViewController.h;
+		sourceTree = "<absolute>";
+	};
+	DD92A2291277238600BAF621 /* customsplitviewViewController.m:39 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 28D7ACF70DDB3853001CB0EB /* customsplitviewViewController.m */;
+		functionName = "-viewWillAppear:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 39;
+		location = customsplitview;
+		modificationTime = 309797766.961388;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	DD92A253127727F900BAF621 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* customsplitviewViewController.m */;
+		rLen = 1;
+		rLoc = 4;
+		rType = 1;
+	};
+	DD92A26A127728E500BAF621 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* customsplitviewViewController.m */;
+		name = "customsplitviewViewController.m: 38";
+		rLen = 0;
+		rLoc = 874;
+		rType = 0;
+		vrLen = 1099;
+		vrLoc = 1358;
+	};
+}
